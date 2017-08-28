@@ -1,4 +1,4 @@
 //npm run build
-//node minesweeper.js
+//node minesweeper.js js
 
 const board = [[], []];
